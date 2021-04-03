@@ -10,7 +10,7 @@ Algorithm Part I and Part II, by Princeton University Robert Sedgewick and Kevin
 
 > Char 7-12: https://www.coursera.org/learn/algorithms-part2/
 
-sort-princeton![image](https://user-images.githubusercontent.com/56275127/113489117-d5006200-9487-11eb-815f-e89afda14307.png)
+Sort Summary![image](https://user-images.githubusercontent.com/56275127/113489117-d5006200-9487-11eb-815f-e89afda14307.png)
 
 
 
