@@ -20,5 +20,7 @@ Sorting Algorithms ![image](https://user-images.githubusercontent.com/56275127/1
 
 Linear-time reductions ![image](https://user-images.githubusercontent.com/56275127/113778938-9e7a4f80-96f2-11eb-9516-d24e45309f6d.png)
 
+Poly-time reductions from boolean satisfiability![image](https://user-images.githubusercontent.com/56275127/113788030-c91fd480-9701-11eb-88bd-41b3a39fe820.png)
+
 
 ## 2.
