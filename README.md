@@ -14,6 +14,8 @@ Sort Summary![image](https://user-images.githubusercontent.com/56275127/11348911
 
 Searching Tree Summary ![image](https://user-images.githubusercontent.com/56275127/113495925-799b9780-94ba-11eb-8169-b5b4f233263e.png)
 
+Sorting Algorithms ![image](https://user-images.githubusercontent.com/56275127/113642172-d3c86400-9644-11eb-93ae-07cd330b815f.png)
 
+- D = function-call stack depth (length of longest prefix match)
 
 ## 2.
