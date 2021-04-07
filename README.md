@@ -10,17 +10,10 @@ Algorithm Part I and Part II, by Princeton University Robert Sedgewick and Kevin
 
 > Char 7-12: https://www.coursera.org/learn/algorithms-part2/
 
-Sort Summary![image](https://user-images.githubusercontent.com/56275127/113489117-d5006200-9487-11eb-815f-e89afda14307.png)
+PDF Notes: https://github.com/junfanz1/CS-Online-Course-Notes/blob/main/Princeton%20Algorithm%20Coursera%20Notes%20Junfan%20Zhu.pdf
 
-Searching Tree Summary ![image](https://user-images.githubusercontent.com/56275127/113495925-799b9780-94ba-11eb-8169-b5b4f233263e.png)
+Markdown Notes: https://github.com/junfanz1/CS-Online-Course-Notes/blob/main/Princeton%20Algorithm%20Coursera%20Notes.md
 
-Sorting Algorithms ![image](https://user-images.githubusercontent.com/56275127/113642172-d3c86400-9644-11eb-93ae-07cd330b815f.png)
+## 2. Machine Learning with Graphs, Stanford CS 224W
 
-- D = function-call stack depth (length of longest prefix match)
-
-Linear-time reductions ![image](https://user-images.githubusercontent.com/56275127/113778938-9e7a4f80-96f2-11eb-9516-d24e45309f6d.png)
-
-Poly-time reductions from boolean satisfiability![image](https://user-images.githubusercontent.com/56275127/113788030-c91fd480-9701-11eb-88bd-41b3a39fe820.png)
-
-
-## 2.
+To come.
