@@ -10,9 +10,9 @@ Algorithm Part I and Part II, by Robert Sedgewick and Kevin Wayne at Princeton.
 
 > Char 7-12: https://www.coursera.org/learn/algorithms-part2/
 
-__PDF Notes:__ https://github.com/junfanz1/CS-Online-Course-Notes/blob/main/Princeton%20Algorithm%20Coursera%20Notes%20Junfan%20Zhu.pdf
+__PDF Notes:__ https://github.com/junfanz1/CS-Online-Course-Notes/blob/main/Princeton%20Algorithm/Princeton%20Algorithm%20Coursera%20Notes%20Junfan%20Zhu.pdf
 
-__Markdown Notes:__ https://github.com/junfanz1/CS-Online-Course-Notes/blob/main/Princeton%20Algorithm%20Coursera%20Notes.md
+__Markdown Notes:__ https://github.com/junfanz1/CS-Online-Course-Notes/blob/main/Princeton%20Algorithm/Princeton%20Algorithm%20Coursera%20Notes.md
 
 ## 2. Machine Learning with Graphs, Stanford CS 224W
 
