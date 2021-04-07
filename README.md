@@ -16,4 +16,8 @@ Markdown Notes: https://github.com/junfanz1/CS-Online-Course-Notes/blob/main/Pri
 
 ## 2. Machine Learning with Graphs, Stanford CS 224W
 
-To come.
+CS224W: Machine Learning with Graphs, by Prof. Jure Leskovec at Stanford
+
+> http://web.stanford.edu/class/cs224w/
+
+Notes: To come.
