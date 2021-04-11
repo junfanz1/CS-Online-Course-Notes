@@ -22,7 +22,7 @@ Kaggle Mini-courses.
 
 __PDF Notes:__ https://github.com/junfanz1/CS-Online-Course-Notes/blob/main/Kaggle%20Course%20Notes/Kaggle%20Course%20Notes.pdf
 
-__Markdown Notes:__ https://github.com/junfanz1/CS-Online-Course-Notes/blob/main/Kaggle%20Course%20Notes/Kaggle%20Course%20Notes.m
+__Markdown Notes:__ https://github.com/junfanz1/CS-Online-Course-Notes/blob/main/Kaggle%20Course%20Notes/Kaggle%20Course%20Notes.md
 
 ## 3. Machine Learning with Graphs, Stanford CS 224W
 
