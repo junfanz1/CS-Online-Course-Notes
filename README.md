@@ -14,7 +14,17 @@ __PDF Notes:__ https://github.com/junfanz1/CS-Online-Course-Notes/blob/main/Prin
 
 __Markdown Notes:__ https://github.com/junfanz1/CS-Online-Course-Notes/blob/main/Princeton%20Algorithm/Princeton%20Algorithm%20Coursera%20Notes.md
 
-## 2. Machine Learning with Graphs, Stanford CS 224W
+## 2. Kaggle Course Notes
+
+Kaggle Mini-courses.
+
+> https://www.kaggle.com/learn
+
+__PDF Notes:__ https://github.com/junfanz1/CS-Online-Course-Notes/blob/main/Kaggle%20Course%20Notes/Kaggle%20Course%20Notes.pdf
+
+__Markdown Notes:__ https://github.com/junfanz1/CS-Online-Course-Notes/blob/main/Kaggle%20Course%20Notes/Kaggle%20Course%20Notes.m
+
+## 3. Machine Learning with Graphs, Stanford CS 224W
 
 CS224W: Machine Learning with Graphs, by Prof. Jure Leskovec at Stanford
 
