@@ -24,7 +24,17 @@ __PDF Notes:__ https://github.com/junfanz1/CS-Online-Course-Notes/blob/main/Kagg
 
 __Markdown Notes:__ https://github.com/junfanz1/CS-Online-Course-Notes/blob/main/Kaggle%20Course%20Notes/Kaggle%20Course%20Notes.md
 
-## 3. Machine Learning with Graphs, Stanford CS 224W
+## 3. Grokking the System Design Interview
+
+Educative.io online course.
+
+> https://www.educative.io/courses/grokking-the-system-design-interview/
+
+__PDF Notes:__ https://github.com/junfanz1/CS-Online-Course-Notes/blob/main/Grokking%20the%20System%20Design%20Interview/Grokking%20the%20System%20Design%20Interview.pdf
+
+__Markdown Notes:__ https://github.com/junfanz1/CS-Online-Course-Notes/blob/main/Grokking%20the%20System%20Design%20Interview/Grokking%20the%20System%20Design%20Interview.md
+
+## 4. Machine Learning with Graphs, Stanford CS 224W
 
 CS224W: Machine Learning with Graphs, by Prof. Jure Leskovec at Stanford
 
