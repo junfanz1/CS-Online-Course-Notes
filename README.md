@@ -12,7 +12,7 @@ Algorithm Part I and Part II, by Robert Sedgewick and Kevin Wayne at Princeton.
 
 - [__PDF Notes__](https://github.com/junfanz1/CS-Online-Course-Notes/blob/main/Princeton%20Algorithm/Princeton%20Algorithm%20Coursera%20Notes%20Junfan%20Zhu.pdf)
 
-- __[Markdown Notes:]__ (https://github.com/junfanz1/CS-Online-Course-Notes/blob/main/Princeton%20Algorithm/Princeton%20Algorithm%20Coursera%20Notes.md)
+- [__Markdown Notes:__](https://github.com/junfanz1/CS-Online-Course-Notes/blob/main/Princeton%20Algorithm/Princeton%20Algorithm%20Coursera%20Notes.md)
 
 ## 2. Kaggle Course Notes
 
